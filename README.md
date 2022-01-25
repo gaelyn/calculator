@@ -11,3 +11,4 @@ Visit `http://localhost:8080/`
 2. Navigate into `calculator` directory
 3. `$ http-server`
 4. Visit `http://localhost:8080/`
+5. `ctrl + c` to stop server
